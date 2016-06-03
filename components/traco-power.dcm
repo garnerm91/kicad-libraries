@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TSR-1
+D Regulator 1A
+K POWER REGUL
+$ENDCMP
+#
+#End Doc Library

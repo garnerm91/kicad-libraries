@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LMC7211-SO8
+D Voltage Comparator
+K comp
+$ENDCMP
+#
+$CMP LMC7211-SOT23-5
+D Voltage Comparator
+K comp
+$ENDCMP
+#
+#End Doc Library

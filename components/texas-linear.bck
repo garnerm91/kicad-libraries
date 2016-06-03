@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP D
+D Shunt Voltage Reference
+K SHUNT
+$ENDCMP
+#
+$CMP LM4040x
+D Shunt Voltage Reference
+K SHUNT
+$ENDCMP
+#
+#End Doc Library

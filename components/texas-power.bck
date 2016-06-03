@@ -1,0 +1,21 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CSD18563Q5A
+D Transistor N-MOSFET (general)
+K nmos n-mos n-mosfet transistor
+$ENDCMP
+#
+$CMP Q_NMOS_SGD
+D Transistor N-MOSFET (general)
+K nmos n-mos n-mosfet transistor
+$ENDCMP
+#
+$CMP TPS25924
+D 12V 5A 28mΩ eFuse
+$ENDCMP
+#
+$CMP TPS40170
+D 4.5 V to 60 V Wide-Input Synchronous PWM Buck Controller
+$ENDCMP
+#
+#End Doc Library

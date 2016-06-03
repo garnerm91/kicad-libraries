@@ -1,0 +1,11 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MCP6541(SOT)
+D Push-Pull Comparator
+$ENDCMP
+#
+$CMP MCP6541R
+D Push-Pull Comparator
+$ENDCMP
+#
+#End Doc Library
