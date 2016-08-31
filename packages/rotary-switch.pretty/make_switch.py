@@ -6,8 +6,8 @@ def pad(number, x, y, size, drill):
 def get_pad_angle(pad):
 	return math.radians(15 + ((n-1) *  30))
 
-outer_r = 22
-inner_r = 8
+outer_r = 11
+inner_r = 4
 
 for n in range(1, 13):
 	
