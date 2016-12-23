@@ -1,0 +1,29 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# relay-spdt
+#
+DEF relay-spdt U 0 40 Y Y 1 F N
+F0 "U" 150 -300 60 H V C CNN
+F1 "relay-spdt" 200 300 60 H V C CNN
+F2 "" 0 0 60 H V C CNN
+F3 "" 0 0 60 H V C CNN
+$FPLIST
+ Relay_SANYOU_SRD_Series_Form_C
+$ENDFPLIST
+DRAW
+S -200 200 400 -200 0 1 0 N
+S -150 150 -50 -150 0 1 0 N
+P 2 0 1 0  50 100  50 50 N
+P 2 0 1 0  200 0  0 100 N
+P 2 0 1 0  250 100  50 100 N
+P 3 0 1 0  50 -50  50 -100  200 -100 N
+X COM 1 600 0 200 L 50 50 1 1 I
+X C1 2 -100 350 200 D 50 50 1 1 I
+X NO 3 600 -100 200 L 50 50 1 1 I
+X NC 4 600 100 200 L 50 50 1 1 I
+X C2 5 -100 -350 200 U 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+#End Library

@@ -1,0 +1,7 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP relay-spdt
+D Matches pinout for KiCAD part Relay_SANYOU_SRD_Series_Form_C
+$ENDCMP
+#
+#End Doc Library
