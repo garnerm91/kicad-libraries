@@ -1,5 +1,9 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP ADS111x
+D 14/15/16-Bit ADC
+$ENDCMP
+#
 $CMP LMC7211-SO8
 D Voltage Comparator
 K comp

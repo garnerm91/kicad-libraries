@@ -5,6 +5,10 @@ D 8-/10-/12-Bit Voltage Output Digital-to-Analog Converter with EEPROM and I2C I
 K DAC I2C EEPROM
 $ENDCMP
 #
+$CMP MCP41HVX1/ST
+D 7/8-Bit Single, +36V (±18V) Digital POT with SPI Serial Interface and Volatile Memory
+$ENDCMP
+#
 $CMP MCP6541(SOT)
 D Push-Pull Comparator
 $ENDCMP

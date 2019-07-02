@@ -1,4 +1,4 @@
-(module rotary-switch (layer F.Cu) (tedit 578D335C)
+(module rotary-switch (layer F.Cu) (tedit 5B7D02C2)
   (fp_text reference REF** (at 0 0.5) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -6,6 +6,7 @@
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_circle (center 0 0) (end 13 0) (layer F.SilkS) (width 0.15))
+  (fp_circle (center 0 0) (end 13 0) (layer F.CrtYd) (width 0.15))
   (pad 1 thru_hole circle (at -10.6252 -2.847) (size 2.4 2.4) (drill 1.4) (layers *.Cu *.Mask F.SilkS))
   (pad 2 thru_hole circle (at -7.7782 -7.7782) (size 2.4 2.4) (drill 1.4) (layers *.Cu *.Mask F.SilkS))
   (pad 3 thru_hole circle (at -2.847 -10.6252) (size 2.4 2.4) (drill 1.4) (layers *.Cu *.Mask F.SilkS))

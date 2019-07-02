@@ -10,6 +10,10 @@ D Transistor N-MOSFET (general)
 K nmos n-mos n-mosfet transistor
 $ENDCMP
 #
+$CMP TLC5973
+D 3-Channel, 12-Bit, PWM Constant-Current LED Driver
+$ENDCMP
+#
 $CMP TPS25924
 D 12V 5A 28mR eFuse
 $ENDCMP
