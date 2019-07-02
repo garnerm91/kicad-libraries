@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP MCP47x6
+D 8-/10-/12-Bit Voltage Output Digital-to-Analog Converter with EEPROM and I2C Interface
+K DAC I2C EEPROM
+$ENDCMP
+#
 $CMP MCP6541(SOT)
 D Push-Pull Comparator
 $ENDCMP
