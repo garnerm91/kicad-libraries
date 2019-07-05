@@ -1,5 +1,17 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP MCP40D17
+D 7-Bit Single I2C (with Command Code) Digital Pot with Volatile Memory in SC70 (Isolated Rheostat Configuration)
+$ENDCMP
+#
+$CMP MCP40D18
+D 7-Bit Single I2C (with Command Code) Digital Pot with Volatile Memory in SC70 (B-Grounded Potentiometer Configuration)
+$ENDCMP
+#
+$CMP MCP40D19
+D 7-Bit Single I2C (with Command Code) Digital Pot with Volatile Memory in SC70 (B-Grounded Rheostat Configuration)
+$ENDCMP
+#
 $CMP MCP47x6
 D 8-/10-/12-Bit Voltage Output Digital-to-Analog Converter with EEPROM and I2C Interface
 K DAC I2C EEPROM
